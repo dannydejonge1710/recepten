@@ -1,9 +1,11 @@
 body 	{
 	background-image: url(Afbeelding2.jpg);
-	background-attachment: fixed;
-	background-repeat: no-repeat;
 	width: 100%;
 	margin-left: auto;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
 }
 
 .container	{
